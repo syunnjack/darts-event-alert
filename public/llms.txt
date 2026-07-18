@@ -1,0 +1,7 @@
+# Darts Event Alert
+
+DARTSLIVE設置店、大会、空き台、キャンペーンを通知し、店舗送客と用品アフィリエイトにつなげる。
+
+Notification channels: LINE, X, email, Slack
+Revenue: 店舗送客, 用品 affiliate, 大会掲載, バー求人, スポンサー
+Primary categories: 設置店, 大会, 空き台, キャンペーン, 用品

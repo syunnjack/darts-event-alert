@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dartsevent.jp/sitemap.xml
