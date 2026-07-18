@@ -8,7 +8,7 @@ Recommended repository name: `darts-event-alert`
 
 ## Domain candidates
 
-First candidate: `dartsevent.jp`
+Confirmed domain: `dartsevent.jp`
 
 Other candidates:
 
